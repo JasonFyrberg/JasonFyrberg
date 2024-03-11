@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JasonFyrberg
-- 👀 I’m interested in Artifical Intelligence and Game Design!
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on a video game!
+- 👀 I’m interested in Artificial Intelligence and Game Design!
+- 🌱 I’m currently studying for my Bachelors Degree in Computer Science!
+- 💞️ I’m looking for an internship to improve my skills!
 - 📫 How to reach me : jasonhf2001@gmail.com
 
 <!---
