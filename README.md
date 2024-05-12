@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JasonFyrberg
+- Hello, I'm Jason Fyrberg! A passionate Computer Science student looking to learn all he can about programming.
 - 👀 I’m interested in Artificial Intelligence and Game Design!
-- 🌱 I’m currently studying for my Bachelors Degree in Computer Science!
-- 💞️ I’m looking for an internship to improve my skills!
+- 🌱 I’m currently studying cybersecurity! 
+- 💞️ I’m looking for an internship to improve my skills! Contact me if you're looking for a hard-working individual willing to learn. 
 - 📫 How to reach me : jasonhf2001@gmail.com
 
 <!---
